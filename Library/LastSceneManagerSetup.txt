@@ -1,4 +1,4 @@
 sceneSetups:
-- path: F:/GameDevelop/2D-Defender-master/2D-Defender-master/Assets/Scenes/SampleScene.unity
+- path: Assets/Scenes/AngryBird.unity
   isLoaded: 1
   isActive: 1
