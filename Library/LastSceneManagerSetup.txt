@@ -1,0 +1,4 @@
+sceneSetups:
+- path: F:/GameDevelop/2D-Defender-master/2D-Defender-master/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
